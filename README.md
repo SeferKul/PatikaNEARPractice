@@ -1,2 +1,2 @@
 # PatikaNEARPractice
-![image](https://user-images.githubusercontent.com/71902568/163873678-143936da-3b99-49fc-80b4-93270106efc5.png)
+![image](https://user-images.githubusercontent.com/71902568/163873728-f660b5c6-5d45-4947-b61d-051f07e166c9.png)
